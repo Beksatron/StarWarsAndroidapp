@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="toast">Promijenili ste jezik</string>
+    <string name="string_login">Prijava</string>
+    <string name="Language">Jezik</string>
+    <string name="rng">Generiraj broj</string>
+    <string name="English">Engleski</string>
+    <string name="Croatian">Hrvatski</string>
+    <string name="choose">Odaberi</string>
+    <string name="enterPassword">Unesite lozinku</string>
+
+</resources>

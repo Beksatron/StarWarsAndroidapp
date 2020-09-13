@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name" translatable="false">AndroidWarsApp</string>
+    <string name="string_login">Login</string>
+    <string name="Language">Language</string>
+    <string name="rng">RNG</string>
+    <string name="toast">Language changed</string>
+    <string name="English">English</string>
+    <string name="Croatian">Croatian</string>
+    <string name="choose">Save</string>
+    <string name="enterPassword">Enter password</string>
+    <!--    add-->
+    <!--    <string name="person_name_text">Name: %s</string>-->
+    <!--    <string name="title_activity_search">Search Activity</string>-->
+    <!--    <string name="title_activity_photo_detail">Photo Detail</string>-->
+    <!--    <string name="browse_image_description">Downloaded Flickr photo</string>-->
+    <!--    -->
+    <!--    <string name="photo_tags_text">Tags: %s</string>-->
+    <!--    <string name="activity_search">Search</string>-->
+    <!--    <string name="searchable_hint">Enter photo tags</string>-->
+
+</resources>
